@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import logo from "./logo.svg";
 import { Button } from "@material-ui/core";
 import { Switch, Route, useHistory } from "react-router-dom";
 import AddLocation from "./components/AddLocation";
